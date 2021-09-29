@@ -1,0 +1,16 @@
+Cython==3.0a6
+gremlinpython
+grpcio
+grpcio-tools
+kubernetes
+nest_asyncio
+networkx
+numpy
+packaging
+pandas
+protobuf>=3.12.0
+PyYAML
+scipy
+tqdm
+vineyard>=0.2.12; sys_platform != "win32" and platform_machine == 'x86_64'
+vineyard-io>=0.2.12; sys_platform != "win32" and platform_machine == 'x86_64'
